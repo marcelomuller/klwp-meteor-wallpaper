@@ -3,6 +3,8 @@
   Simple animated Kustom Live Wallpaper
 </p>
 
+![screenshots](./images/screens.png)
+
 # Requisites
 - Nova Launcher with 2 pages
 - KLWP Pro
