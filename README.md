@@ -13,7 +13,7 @@
 - First page
   - AMOLED wallpaper
   - Time and date
-  - Falling meteors
+  - Animated falling meteors
 - Second page
   - Spotify like homepage music player
   - Animated equalizer bars
